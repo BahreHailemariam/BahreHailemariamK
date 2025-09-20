@@ -11,7 +11,7 @@ I'm **Bahre Hailemariam**, a Data Analyst who loves transforming data into clear
 
 ## 🔍 About Me
 
-- 🎓 Graduate in [BSc] from [Adama Science and Technology University]
+- 🎓 Graduate in BSc from Adama Science and Technology University
 - 🛠️ Skilled in Python, SQL, Excel, Tableau, Power BI
 - 📊 Passionate about data visualization, business intelligence, and automating analytics workflows
 - 🤝 Open to collaborations and freelance projects
