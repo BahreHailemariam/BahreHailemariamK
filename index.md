@@ -5,7 +5,7 @@ title: Home
 
 # 👋 Welcome to My Data Analytics Portfolio
 
-I'm **[Bahre Hailemariam]**, a Data Analyst who loves transforming data into clear, actionable insights. With a background in data storytelling, statistical analysis, and dashboard development, I specialize in making complex data easy to understand and useful for business decisions.
+I'm **Bahre Hailemariam**, a Data Analyst who loves transforming data into clear, actionable insights. With a background in data storytelling, statistical analysis, and dashboard development, I specialize in making complex data easy to understand and useful for business decisions.
 
 ---
 
