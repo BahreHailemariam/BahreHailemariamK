@@ -1,5 +1,6 @@
 ---
-title: Welcome to my blog
+layout: default
+title: Home
 ---
 
 # 👋 Welcome to My Data Analytics Portfolio
