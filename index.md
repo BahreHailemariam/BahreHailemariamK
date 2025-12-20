@@ -20,7 +20,7 @@ I'm **Bahre Hailemariam**, a Data Analyst who loves transforming data into clear
 
 ## 💼 Featured Projects
 
-### 📈 [Sales Performance Dashboard](https://github.com/yourusername/sales-dashboard)
+### 📈 [Sales Performance Dashboard](https://github.com/yourusername/sales-dashboard](https://github.com/BahreHailemariam/Product-Recommendation-Engine-Analysis)
 An interactive Tableau dashboard for tracking KPIs, regional sales performance, and customer segmentation.
 
 ### 🔍 [Customer Churn Analysis](https://github.com/yourusername/customer-churn)
